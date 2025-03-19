@@ -24,3 +24,9 @@ Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created The Suitable Charts And Visuals In Microsoft Power BI
 Used Dax To Modify The Data to Provide the Useful Insights
+
+# Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/d9622a58-37ce-49e0-b73e-86ca68e5b9da)
+
+
